@@ -3,7 +3,6 @@ import numpy as np
 import math
 
 import mediapipe as mp
-from gesture_recognition import SimpleGestureDetector
 from utils import findPosition, findGesture
 
 import pyautogui
