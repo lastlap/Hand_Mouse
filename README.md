@@ -4,6 +4,11 @@ The repo uses mediapipe, pyautogui, and opencv to use functions of a regular mou
 
 The gesture '5' is used to move the cursor and '1' is used to click.
 
+System Packages:
+```
+python==3.8.5
+```
+
 Python packages:
 ```
 mediapipe==0.8.4.2
